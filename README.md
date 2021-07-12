@@ -10,4 +10,5 @@
 | 简单实践 | [每个节点到目标节点的最短距离实现](https://nbviewer.jupyter.org/github/zhulei227/Graphx_Notes/blob/master/06_pregel%E6%B1%82%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E5%88%B0%E7%9B%AE%E6%A0%87%E8%8A%82%E7%82%B9%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.ipynb) |                                                              |
 | 简单实践 | [求连通分量](https://nbviewer.jupyter.org/github/zhulei227/Graphx_Notes/blob/master/07_pregel%E6%B1%82%E8%BF%9E%E9%80%9A%E7%BB%84%E4%BB%B6.ipynb) |                                                              |
 | 简单实践 | [求强连通分量](https://nbviewer.jupyter.org/github/zhulei227/Graphx_Notes/blob/master/08_%E6%B1%82%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F.ipynb) |                                                              |
+| 社区发现 | [标签传播](https://nbviewer.jupyter.org/github/zhulei227/Graphx_Notes/blob/master/09_%E6%A0%87%E7%AD%BE%E4%BC%A0%E6%92%AD.ipynb) |                                                              |
 
